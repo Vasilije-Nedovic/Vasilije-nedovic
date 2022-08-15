@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasilije-nedovic&label=Profile%20views&color=0e75b6&style=flat" alt="vasilije-nedovic" /> </p>
 
-- 🌱 I’m currently learning **html & css**
+- 📕 I’m currently learning **html & css**
 
 - 📩you can contact me on **vasilijenedovic025@gmail.com**
 
