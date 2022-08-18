@@ -18,5 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasilije-nedovic&show_icons=true&locale=en" alt="vasilije-nedovic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasilije-nedovic&" alt="vasilije-nedovic" /></p>
 
