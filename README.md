@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasilije-nedovic&label=Profile%20views&color=0e75b6&style=flat" alt="vasilije-nedovic" /> </p>
 
+- 🔭 I’m currently working on [WD.Team](https://wd-team.000webhostapp.com/html/Sajt.html)
+
 - 📕 I’m currently learning **Java script**
 
 - 📩you can contact me on **vasilijenedovic025@gmail.com**
